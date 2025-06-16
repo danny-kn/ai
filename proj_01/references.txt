@@ -1,0 +1,10 @@
+https://www.codecademy.com/resources/docs/ai/search-algorithms
+https://www.codecademy.com/resources/docs/ai/search-algorithms/depth-first-search
+https://www.codecademy.com/resources/docs/ai/search-algorithms/breadth-first-search
+https://www.codecademy.com/resources/docs/ai/search-algorithms/a-star-search
+https://medium.com/omarelgabrys-blog/path-finding-algorithms-f65a8902eb40
+https://eddmann.com/posts/depth-first-search-and-breadth-first-search-in-python/
+Lecture Deck 2 (Uninformed Search: Depth-First Search (DFS), Breadth-First Search (BFS), Uniform-Cost Search (UCS))
+Lecture Deck 3 (Informed Search: A* Search)
+Lecture Deck 3, [p.11 - p.13] ---> State Space Graph Search {Pseudocode}
+https://www.geeksforgeeks.org/python-programming-language/

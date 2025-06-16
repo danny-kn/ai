@@ -1,0 +1,50 @@
+#Prior probability of v_2,,
+v_2,,
+0.001,,
+,,
+#Prior probability of v_3,,
+v_3,,
+0.002,,
+,,
+#Prior probability of v_4,,
+v_4,,
+0.003
+,,
+"#Probability of v_1, given v_2 and v_3 and v_4",,
+v_2,v_3,v_4,v_1
+T,T,T,0.95
+T,T,F,0.90
+T,F,T,0.75
+T,F,F,0.70
+F,T,T,0.85
+F,T,F,0.80
+F,F,T,0.65
+F,F,F,0.60
+,,
+"#Probability of v_5, given v_2 and v_6",,
+v_2,v_6,v_5
+T,T,0.55
+T,F,0.032
+F,T,0.034
+F,F,0.036
+,,
+"#Probability of v_6, given v_2 and v_3",,
+v_2,v_3,v_6
+T,T,0.962
+T,F,0.960
+F,T,0.958
+F,F,0.956
+,,
+"#Probability of v_7, given v_3 and v_4",,
+v_3,v_4,v_7
+T,T,0.954
+T,F,0.952
+F,T,0.950
+F,F,0.948
+,,
+"#Probability of v_8, given v_6 and v_7",,
+v_6,v_7,v_8
+T,T,0.054
+T,F,0.056
+F,T,0.058
+F,F,0.060
